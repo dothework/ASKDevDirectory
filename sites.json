@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Official Amazon Blogs",
+    "slug": "official",
+    "description": "All of the Alexa development related blogs from the mother ship.",
+    "sites": [
+      {
+        "title": "Developer News",
+        "author": "Amazon",
+        "site_url": "https://developer.apple.com/news/",
+        "feed_url": "https://developer.apple.com/news/rss/news.rss"
+      }
+    ]
+  },
+  {
+    "title": "Alexa Development Blogs",
+    "slug": "alexa-development",
+    "description": "No matter if it covers Alexa Skills or Alexa Voice Services, whether it's focused on app architecture or VUI coding. As long as it's related to Alexa development then it belongs here.",
+    "sites": [
+      {
+        "title": "Aaron Vegh's Blog",
+        "author": "Aaron Vegh",
+        "site_url": "http://aaron.vegh.ca/",
+        "feed_url": "http://aaron.vegh.ca/rss/",
+        "twitter_url": "https://twitter.com/aaronvegh"
+      }
+    ]
+  },
+  {
+    "title": "Alexa Development Company Blogs",
+    "slug": "alexa-companies",
+    "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to Alexa development. This is where you'll find it!",
+    "sites": [
+      {
+        "title": "App Launch Map",
+        "author": "Aleen Simms",
+        "site_url": "https://applaunchmap.com/blog/",
+        "feed_url": "https://applaunchmap.com/feed/"
+      }
+    ]
+  }
+]
