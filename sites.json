@@ -5,10 +5,10 @@
     "description": "All of the Alexa development related blogs from the mother ship.",
     "sites": [
       {
-        "title": "Developer News",
+        "title": "Alexa News",
         "author": "Amazon",
-        "site_url": "https://developer.apple.com/news/",
-        "feed_url": "https://developer.apple.com/news/rss/news.rss"
+        "site_url": "https://developer.amazon.com/blogs/alexa/",
+        "feed_url": "https://developer.amazon.com/blogs/alexa/feed/entries/atom"
       }
     ]
   },
@@ -18,11 +18,11 @@
     "description": "No matter if it covers Alexa Skills or Alexa Voice Services, whether it's focused on app architecture or VUI coding. As long as it's related to Alexa development then it belongs here.",
     "sites": [
       {
-        "title": "Aaron Vegh's Blog",
-        "author": "Aaron Vegh",
+        "title": "Love My Echo",
+        "author": "April Hamilton",
         "site_url": "http://aaron.vegh.ca/",
-        "feed_url": "http://aaron.vegh.ca/rss/",
-        "twitter_url": "https://twitter.com/aaronvegh"
+        "feed_url": "https://lovemyecho.com/feed/",
+        "twitter_url": "https://twitter.com/lovemyecho"
       }
     ]
   },
@@ -32,10 +32,10 @@
     "description": "If a blog is published by a company rather than an individual (or group) of individuals, but is still related to Alexa development. This is where you'll find it!",
     "sites": [
       {
-        "title": "App Launch Map",
-        "author": "Aleen Simms",
-        "site_url": "https://applaunchmap.com/blog/",
-        "feed_url": "https://applaunchmap.com/feed/"
+        "title": "Bespoken",
+        "author": "Bespoken.io",
+        "site_url": "https://bespoken.io/blog/",
+        "feed_url": "https://bespoken.io/blog/feed/"
       }
     ]
   }
